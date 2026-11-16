@@ -11,3 +11,6 @@ Recommended by Erin Hansen:\
 https://beta.iop.org/sites/default/files/2019-08/IOP-CV-for-graduates.pdf \
 https://www.careereducation.columbia.edu/resources/creating-undergraduate-cv \
 https://github.com/darwiin/yaac-another-awesome-cv
+
+Suggestions of questions to answer in the personal and academic statements (from MSU graduate school application website:
+https://astro.natsci.msu.edu/graduate/how-to-apply.aspx \
