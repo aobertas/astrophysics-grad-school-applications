@@ -15,7 +15,7 @@ https://beta.iop.org/sites/default/files/2019-08/IOP-CV-for-graduates.pdf \
 https://www.careereducation.columbia.edu/resources/creating-undergraduate-cv \
 https://github.com/darwiin/yaac-another-awesome-cv
 
-(from Adina Feinstein) Suggestions of questions to answer in the personal and academic statements (from MSU graduate school application website:
+(from Adina Feinstein) Suggestions of questions to answer in the personal and academic statements (from MSU graduate school application website):
 https://astro.natsci.msu.edu/graduate/how-to-apply.aspx.
 
 There's also a guide to personal statements on Astrobites by Zili Shen: https://astrobites.org/2022/11/25/grad-app-personal-statement/.
