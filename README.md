@@ -5,6 +5,10 @@ A repository of information that could be helpful for people preparing applicati
 First, Astrobites has a great grad school application FAQ by 
 Skylar Grayson, Natalie Price, Ben Sherwin, Chris Layden, and Katya Gozman: https://astrobites.org/2026/08/19/grad_school_faqs/.
 
+This AstroBetter wiki page on graduate school has suggestions (but I'm not sure how up-to-date they all are): https://www.astrobetter.com/wiki/tiki-index.php?page=Graduate+School.
+
+The AstroBetter wiki in general has several pages about grad school (but again, I don't know how up-to-date they are): https://www.astrobetter.com/wiki/Wiki%2BHome.
+
 I highly recommend reading this phenomenal Astrobites guide to CVs by Skylar Grayson, Brandon Pries, William Smith, 
 Anavi Uppal, and Maria Vincent: https://astrobites.org/2025/09/23/guide_to_cvs/.
 
