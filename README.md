@@ -6,7 +6,7 @@ A repository of information that could be helpful for people preparing applicati
 [General Resources](#general-resources)\
 [CV Resources](#cv-resources)\
 [Resources for Statements](#resources-for-statements)\
-[Website Resources](#website-resources)\
+[Website Resources](#website-resources)
 
 # General Resources
 
@@ -38,8 +38,8 @@ There's also a guide to personal statements on Astrobites by Zili Shen: https://
 
 # Website Resources
 
-Here is a great guide for making a website, created by Steven Stetzler and Leah Fulmer: https://astrosites.github.io/.\
-I'd guess that it's what many people in astro/physics have used to help make their websites!
+Here is a great guide for making a website, created by Steven Stetzler and Leah Fulmer. I'd guess that it's what many people in astro/physics have used to make their websites: https://astrosites.github.io/.
+
 
 You can find the source code to make this website here: https://github.com/astrosites/astrosites.github.io
 
