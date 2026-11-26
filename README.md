@@ -2,12 +2,22 @@
 
 A repository of information that could be helpful for people preparing applications for astro/physics graduate programmes.
 
+# Index
+[General Resources](#general-resources)\
+[CV Resources](#cv-resources)\
+[Resources for Statements](#resources-for-statements)\
+[Website Resources](#website-resources)\
+
+# General Resources
+
 First, Astrobites has a great grad school application FAQ by 
 Skylar Grayson, Natalie Price, Ben Sherwin, Chris Layden, and Katya Gozman: https://astrobites.org/2026/08/19/grad_school_faqs/.
 
 This AstroBetter wiki page on graduate school has suggestions (but I'm not sure how up-to-date they all are): https://www.astrobetter.com/wiki/tiki-index.php?page=Graduate+School.
 
 The AstroBetter wiki in general has several pages about grad school (but again, I don't know how up-to-date they are): https://www.astrobetter.com/wiki/Wiki%2BHome.
+
+# CV Resources
 
 I highly recommend reading this phenomenal Astrobites guide to CVs by Skylar Grayson, Brandon Pries, William Smith, 
 Anavi Uppal, and Maria Vincent: https://astrobites.org/2025/09/23/guide_to_cvs/.
@@ -19,7 +29,20 @@ https://beta.iop.org/sites/default/files/2019-08/IOP-CV-for-graduates.pdf \
 https://www.careereducation.columbia.edu/resources/creating-undergraduate-cv \
 https://github.com/darwiin/yaac-another-awesome-cv
 
+# Resources for Statements
+
 (from Adina Feinstein) Suggestions of questions to answer in the personal and academic statements (from MSU graduate school application website):
 https://astro.natsci.msu.edu/graduate/how-to-apply.aspx.
 
 There's also a guide to personal statements on Astrobites by Zili Shen: https://astrobites.org/2022/11/25/grad-app-personal-statement/.
+
+# Website Resources
+
+Here is a great guide for making a website, created by Steven Stetzler and Leah Fulmer: https://astrosites.github.io/.\
+I'd guess that it's what many people in astro/physics have used to help make their websites!
+
+You can find the source code to make this website here: https://github.com/astrosites/astrosites.github.io
+
+They have an interactive template that you can view: https://astrosites.github.io/template/.
+
+You can find the source code for that template here (I think): https://github.com/astrosites/template.
